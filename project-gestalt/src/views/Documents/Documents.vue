@@ -20,7 +20,7 @@
             </div>
         </div>
         <div v-else>
-            <p>Loading specimens...</p>
+            <p>Loading weapons...</p>
         </div>
 </template>
 
