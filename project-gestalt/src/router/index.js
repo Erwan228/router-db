@@ -23,9 +23,14 @@ const routes = [
     component: Documents,
   },
   {
-    path: '/documents/:id',
+    path: '/specimens/:id',
     name: 'Specimens',
     component: Specimens
+  },
+  {
+    path: '/weapons/:id',
+    name: 'Weapons',
+    component: Weapons
   },
   {
     path: '/:catchAll(.*)',

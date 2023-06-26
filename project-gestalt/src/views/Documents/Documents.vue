@@ -8,6 +8,9 @@
                 </router-link>
             </div>
         </div>
+        <div v-else>
+            <p>Loading specimens...</p>
+        </div>
 </template>
 
 <script>

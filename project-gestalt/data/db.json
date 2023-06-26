@@ -1,13 +1,13 @@
 {
     "weapons": [
         {
-            "name": "Virtuos Contract", "id":1, "category": "One-Handed Sword", "details": "A versatile and balanced sword that offers a combination of speed and power. It is suitable for close-quarters combat and allows for quick and precise strikes against enemies."
+            "name": "Virtuos Contract", "id": 1, "category": "One-Handed Sword", "details": "A versatile and balanced sword that offers a combination of speed and power. It is suitable for close-quarters combat and allows for quick and precise strikes against enemies."
         },
         {
-            "name": "Beastlord", "id":2, "category": "Two-Handed Greatsword", "details": "A large and heavy greatsword known for its raw strength and sweeping attacks. It delivers powerful blows capable of dealing significant damage to multiple enemies." 
+            "name": "Beastlord", "id": 2, "category": "Two-Handed Greatsword", "details": "A large and heavy greatsword known for its raw strength and sweeping attacks. It delivers powerful blows capable of dealing significant damage to multiple enemies." 
         },
         {
-            "name": "Phoenix Lance", "id":3, "category": "Spear", "details": "A long-reaching weapon with a sharp tip, designed for thrusting attacks. It allows for keeping enemies at a distance while delivering piercing strikes with precision."
+            "name": "Phoenix Lance", "id": 3, "category": "Spear", "details": "A long-reaching weapon with a sharp tip, designed for thrusting attacks. It allows for keeping enemies at a distance while delivering piercing strikes with precision."
         }
     ],
     "specimens": [
