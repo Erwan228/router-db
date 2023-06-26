@@ -26,8 +26,10 @@ nav a {
 }
 
 nav a.router-link-exact-active {
-  color: #42b983;
-}
+  padding: 5px;
+  border-radius: 4px;
+  background-color: #a43457;
+  }
 body {
   background: linear-gradient(to right,  #a43457, #575b5b, #575b5b, #575b5b, #575b5b, #a43457 ) fixed; 
 }
@@ -38,5 +40,7 @@ div{
 }
 p {
   width: 50%;
+  font-size: large;
+  line-height: 25px;
 }
 </style>

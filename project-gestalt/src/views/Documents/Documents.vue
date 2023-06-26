@@ -51,4 +51,7 @@ export default{
 h2 {
     margin-top: 70px;
 }
+a{
+    color: white;
+}
 </style>
