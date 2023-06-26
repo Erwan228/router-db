@@ -10,10 +10,11 @@
 
 <script>
 export default {
-    props: ['id'],
+    //props: ['id'],
     data(){
         return{
             specimen: null,
+            id: this.$route.params.id
         }
     },
     mounted(){

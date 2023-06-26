@@ -13,7 +13,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: white;
 }
 
 nav {
@@ -27,5 +27,16 @@ nav a {
 
 nav a.router-link-exact-active {
   color: #42b983;
+}
+body {
+  background: linear-gradient(to right,  #a43457, #575b5b, #575b5b, #575b5b, #575b5b, #a43457 ) fixed; 
+}
+div{
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+p {
+  width: 50%;
 }
 </style>

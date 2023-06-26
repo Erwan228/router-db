@@ -11,6 +11,17 @@
         <div v-else>
             <p>Loading specimens...</p>
         </div>
+        <h2>Weapons</h2>
+        <div v-if="weapons.length" class="weapons">
+            <div v-for="weapon in weapons" :key="weapon.id" class="weapon">
+                <router-link :to="{ name: 'Weapons', params: {id: weapon.id} }">
+                    <h3>{{ weapon.name }}</h3>
+                </router-link>
+            </div>
+        </div>
+        <div v-else>
+            <p>Loading specimens...</p>
+        </div>
 </template>
 
 <script>
